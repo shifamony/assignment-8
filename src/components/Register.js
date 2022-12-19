@@ -82,7 +82,7 @@ const Register = () => {
 
       {/* HERE IS GOOGLE SIGN IN BUTTON */}
 
-      <button onClick={handleGoogleSignIn}>Sign In With Google</button>
+      <button onClick={handleGoogleSignIn}>Sign in with Google</button>
 
     </div>
   </div>
