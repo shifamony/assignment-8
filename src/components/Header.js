@@ -18,7 +18,7 @@ const Header = () => {
     return (
         <div>
           <div className="navbar bg-primary text-primary-content">
-            <Link to='/' className="btn btn-ghost normal-case text-xl">daisyUI</Link>
+            <Link to='/' className="btn btn-ghost normal-case text-xl">DaisyUI</Link>
             <Link className="btn btn-ghost normal-case text-xl" to='/'>Home</Link>
             <Link className="btn btn-ghost normal-case text-xl" to='/orders'>Orders</Link>
             <Link className="btn btn-ghost normal-case text-xl" to='/login'>Login</Link>
